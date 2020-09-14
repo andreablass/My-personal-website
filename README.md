@@ -7,5 +7,5 @@
   ## Find me around the web 🌎: <a href="https://andreablass.github.io/My-personal-website/">My personal WebSite</a>
  
 
--Look for me in <a href="https://twitter.com/AndreaBlass11">Twitter</a> 🐣
--Look for me in <a href="https://www.reddit.com/user/Deaba">Reddit</a> 🤖
+- Look for me in <a href="https://twitter.com/AndreaBlass11">Twitter</a> 🐣
+- Look for me in <a href="https://www.reddit.com/user/Deaba">Reddit</a> 🤖
