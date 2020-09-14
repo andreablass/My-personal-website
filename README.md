@@ -1,6 +1,7 @@
 # ¡Hi!, I´m Andrea 🙋🏻‍♀️🍒
 
-<img src="https://raw.githubusercontent.com" alt="Andrea Blass - Developer in process, lover of technology. 👩🏻‍💻">
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Andrea Blass - - Developer in process, lover of technology. 👩🏻‍💻">
+
 
   I'm creating my personal website here :D
   
