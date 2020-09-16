@@ -11,6 +11,38 @@ body {
   h6 {
     color: #1e1e1e;
   }
+  /* color palette from https://www.color-hex.com/color-palettes */
+:root {
+	--darkest-color: #064273;
+	--lightest-color: #def3f6;
+	--highlight-color: #ffffff;
+	--bright-color-1: #1da2d8;
+	--bright-color-2: #76b6c4;
+	--bright-color-3: #7fcdff;
+}
+
+.circle-shape {
+	width: 140px;
+	height: 140px;
+	position: relative;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 3px solid var(--lightest-color);
+	margin: 0 auto;
+}
+
+.profile-pic {
+	display: inline;
+	margin: 0 auto;
+	height: 100%;
+	width: auto;
+}
+.icon-list-img {
+	height: 50px;
+	width: 50px;
+	margin: 3px;
+}
+/*-------------------------------------*/
   #page {
     position: relative;
     overflow-x: hidden;
@@ -20,6 +52,7 @@ body {
     -o-transition: 0.5s;
     transition: 0.5s;
   }
+  
   
   a {
     color: #1e1e1e;
@@ -195,6 +228,7 @@ body {
     margin-bottom: 3rem;
     z-index: 2;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+    left:10cm;
   }
   
   /*------/ Socials /------*/
